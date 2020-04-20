@@ -1,0 +1,9 @@
+K:\VuLeTech\Proj_Syngenta\SourceCode\UserManagerModule\UserManagerModuleV2\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+K:\VuLeTech\Proj_Syngenta\SourceCode\UserManagerModule\UserManagerModuleV2\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+K:\VuLeTech\Proj_Syngenta\SourceCode\UserManagerModule\UserManagerModuleV2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojAssemblyReference.cache
+K:\VuLeTech\Proj_Syngenta\SourceCode\UserManagerModule\UserManagerModuleV2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+K:\VuLeTech\Proj_Syngenta\SourceCode\UserManagerModule\UserManagerModuleV2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+K:\VuLeTech\Proj_Syngenta\SourceCode\UserManagerModule\UserManagerModuleV2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+K:\VuLeTech\Proj_Syngenta\SourceCode\UserManagerModule\UserManagerModuleV2\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+K:\VuLeTech\Proj_Syngenta\SourceCode\UserManagerModule\UserManagerModuleV2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+K:\VuLeTech\Proj_Syngenta\SourceCode\UserManagerModule\UserManagerModuleV2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
